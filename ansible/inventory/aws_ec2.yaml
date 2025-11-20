@@ -1,7 +1,7 @@
 plugin: aws_ec2
 
 regions:
-  - ap-south-1
+  - sa-east-1
 
 filters:
   tag:Service: redis        # all instances tagged with Service=redis
